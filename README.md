@@ -10,6 +10,8 @@ I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL h
 - Paper Minecraft
 - Having fun with my homies
 
+---
+
 ### 🌐 Other Places You Can Find Me
 - **Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
 - **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
