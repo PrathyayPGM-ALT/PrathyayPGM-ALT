@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**PrathyayPGM-ALT/PrathyayPGM-ALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL hacker as not going to jail would be fine. I mainly use github for sharing my projects and backup for bigger projects. Sadly, My original account was flagged for no particular reason, so I lost all of my awesome repos but that's OK
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Online, Multiplayer game based on the Viking board game - Hnefatafl
+- Paper Minecraft
+- Having fun with my homies
+
+### 🌐 Other Places You Can Find Me
+- **Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
+- **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
+- **Itch.io:** [prathyay.itch.io](https://prathyay.itch.io)
+
+---
+
+### 🧩 Tech & Tools I Use
+`Python` · `Pygame` · `Ursina` · `Godot` · `HTML/CSS/JS` · `C` · `AI tools for creativity`  
+
+---
+
+### 🧭 Fun Fact
+I love creating worlds — digital or otherwise — where logic meets storytelling.  
+Every project I make starts with a “what if?” moment.
