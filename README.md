@@ -16,7 +16,7 @@ I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL h
 - **Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
 - **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
 - **Itch.io:** [prathyay.itch.io](https://prathyay.itch.io)
-- **gmail** prathyaym@gmail.com
+- **gmail:** prathyaym@gmail.com
 
 ---
 
