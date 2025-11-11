@@ -2,6 +2,8 @@
 
 I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL hacker as not going to jail would be fine. I mainly use github for sharing my projects and backup for bigger projects. Sadly, My original account was flagged for no particular reason, so I lost all of my awesome repos but that's OK
 
+---
+
 ### What I'm working on
 
 - Online, Multiplayer game based on the Viking board game - Hnefatafl
@@ -16,7 +18,7 @@ I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL h
 ---
 
 ### 🧩 Tech & Tools I Use
-`Python` · `Pygame` · `Ursina` · `Godot` · `HTML/CSS/JS` · `C` · `AI tools for creativity`  
+`Python` · `Pygame` · `Ursina` · `HTML/CSS/JS` · `C`
 
 ---
 
