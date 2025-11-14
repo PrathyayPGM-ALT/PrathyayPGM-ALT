@@ -17,6 +17,7 @@ I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL h
 - **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
 - **Itch.io:** [prathyay.itch.io](https://prathyay.itch.io)
 - **Gmail:** prathyaym@gmail.com
+- **Discord:** fatal_prathyaym
 
 ---
 
