@@ -4,7 +4,7 @@
 
 ### I am **Prathyay** — Game Developer, ETHICAL Hacker, and Professional Chaos Creator  
 
-I build games, break things (legally), and sometimes even fix them.  
+I build games, break things (legally), and sometimes (I SAID SOMETIMES) even fix them.  
 I use GitHub as my playground for experimenting, backing up big projects,  
 and recovering from losing my old account (RIP).
 
@@ -12,7 +12,7 @@ and recovering from losing my old account (RIP).
 
 </div>
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - **Online multiplayer Hnefatafl** — Viking strategy game remake  
 - **Paper Minecraft**  
@@ -21,7 +21,7 @@ and recovering from losing my old account (RIP).
 
 ---
 
-## 🌐 Find Me Elsewhere
+## Find Me Elsewhere
 
 **Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
 **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
