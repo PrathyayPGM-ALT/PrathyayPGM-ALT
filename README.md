@@ -1,29 +1,37 @@
-## Hello there 👋
+<div align="center">
+  
+# 👋 Hello There!
 
-I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL hacker as not going to jail would be fine. I mainly use GitHub for sharing my projects and backup for bigger projects. Sadly, my original account was flagged for no particular reason, so I lost all of my awesome repos but that is OK.
+### I am **Prathyay** — Game Developer, ETHICAL Hacker, and Professional Chaos Creator  
 
----
-
-### What I'm working on
-
-- Online, Multiplayer game based on the Viking board game — Hnefatafl  
-- Paper Minecraft  
-- Cyvathon official website  
-- Having fun with my homies  
+I build games, break things (legally), and sometimes even fix them.  
+I use GitHub as my playground for experimenting, backing up big projects,  
+and recovering from losing my old account (RIP).
 
 ---
 
-### 🌐 Other Places You Can Find Me
+</div>
 
-- **Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
-- **GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
-- **Itch.io:** [prathyay.itch.io](https://prathyay.itch.io)  
-- **Gmail:** prathyaym@gmail.com  
-- **Discord:** fatal_prathyaym  
+## 🚀 What I'm Working On
+
+- **Online multiplayer Hnefatafl** — Viking strategy game remake  
+- **Paper Minecraft**  
+- **Cyvathon official website**  
+- **Having fun with my homies (mission-critical)**  
 
 ---
 
-### 🧩 Tech & Tools I Use
+## 🌐 Find Me Elsewhere
+
+**Website:** [prathyay.neocities.org](https://prathyay.neocities.org)  
+**GitHub:** [@prathyayPGM-ALT](https://github.com/prathyayPGM-ALT)  
+**Itch.io:** [prathyay.itch.io](https://prathyay.itch.io)  
+**Gmail:** prathyaym@gmail.com  
+**Discord:** fatal_prathyaym  
+
+---
+
+## Tech & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
@@ -36,7 +44,23 @@ I am Prathyay, A game dev with a funny sense of humo(u)r. I am also an ETHICAL h
 
 ---
 
-### 🧭 Fun Fact
+## Fun Fact
 
-I love creating worlds — digital or otherwise — where logic meets storytelling.  
-Every project I make starts with a “what if?” moment.
+I love creating worlds — digital or otherwise — where **logic meets storytelling**.  
+Every project I make starts with a simple question:
+
+> **“What if…?”**
+
+And then things get slightly out of hand 
+
+---
+
+<div align="center">
+
+### Thanks for visiting!  
+If you are a dev, hacker, gamer, or meme enthusiast…  
+**you are already my friend.**
+
+*Feel free to star any project you find cool!*
+
+</div>
