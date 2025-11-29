@@ -2,7 +2,7 @@
   
 # 👋 Hello There!
 
-### I am **Prathyay** — Game Developer, ETHICAL Hacker, and Professional Chaos Creator  
+### I am **Prathyay** — Game Developer, ETHICAL Hacker, and Professional Chaos Creator  :)
 
 I build games, break things (legally), and sometimes (I SAID SOMETIMES) even fix them.  
 I use GitHub as my playground for experimenting, backing up big projects,  
