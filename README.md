@@ -32,7 +32,7 @@ and recovering from losing my old account (RIP 🪦).
 <div align="center">
 
 <a href="https://prathyay.neocities.org" target="_blank">
-  <img src="[https://skillicons.dev/icons?i=web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fverpex.com%2Fblog%2Fwebsite-tips%2Fhow-to-become-a-backend-developer&psig=AOvVaw1C4bxz75V4nSXhE_I_x7Hz&ust=1764932776937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCviYzlo5EDFQAAAAAdAAAAABAE)" width="48" />
+  🌐
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
@@ -40,7 +40,7 @@ and recovering from losing my old account (RIP 🪦).
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="[https://skillicons.dev/icons?i=itchio](https://avatars.githubusercontent.com/u/14803619?s=280&v=4)" width="48" />
+  <img src="https://skillicons.dev/icons?i=itchio" width="48" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:prathyaym@gmail.com" target="_blank">
@@ -48,6 +48,7 @@ and recovering from losing my old account (RIP 🪦).
 </a>
 
 </div>
+
 
 ---
 
