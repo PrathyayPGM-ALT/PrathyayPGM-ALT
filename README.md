@@ -67,7 +67,6 @@ And then things get… uh… slightly out of hand.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" />
 
