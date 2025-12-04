@@ -1,12 +1,18 @@
 <div align="center">
-  
+
+<!-- Optional Banner -->
+<!-- <img src="https://your-banner-image-link-here" width="100%" /> -->
+
+<br>
+
 # 👋 Hello There!
 
-### I am **Prathyay** — Game Developer, ETHICAL Hacker, and Professional Chaos Creator  :)
+### I am **Prathyay**  
+Game Developer • ETHICAL Hacker • Professional Chaos Creator
 
 I build games, break things (legally), and sometimes (I SAID SOMETIMES) even fix them.  
-I use GitHub as my playground for experimenting, backing up big projects,  
-and recovering from losing my old account (RIP).
+GitHub is my playground for experiments, backups,  
+and recovering from losing my old account (RIP 🪦).
 
 ---
 
@@ -14,7 +20,7 @@ and recovering from losing my old account (RIP).
 
 ## What I'm Working On
 
-- **Online multiplayer Hnefatafl** — Viking strategy game remake  
+- **Online multiplayer Hnefatafl** — Viking strategy remake  
 - **Paper Minecraft**  
 - **Cyvathon official website**  
 - **Having fun with my homies (mission-critical)**  
@@ -35,39 +41,46 @@ and recovering from losing my old account (RIP).
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" width="55" />
 
 </div>
-
-
-
-
-
 
 ---
 
 ## Fun Fact
 
 I love creating worlds — digital or otherwise — where **logic meets storytelling**.  
-Every project I make starts with a simple question:
+Every project I make starts with one simple question:
 
 > **“What if…?”**
 
-And then things get.. uh.. slightly out of hand 
+And then things get… uh… slightly out of hand.
+
+---
+
+## GitHub Stats (because why not)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!  
+### Thanks for Visiting!
+
 If you are a dev, hacker, gamer, or meme enthusiast…  
 **you are already my friend.**
 
-*Feel free to star any project you find cool!*
+⭐ *Feel free to star any project you find cool!*  
 
 </div>
