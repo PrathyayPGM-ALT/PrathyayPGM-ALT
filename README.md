@@ -32,30 +32,22 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-<!-- Website -->
 <a href="https://prathyay.neocities.org" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=59886&format=png&color=4da6ff" width="48"/>
+  <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- GitHub -->
+&nbsp;&nbsp;
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=ffffff" width="48"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Itch.io -->
+&nbsp;&nbsp;
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=5uR5yZDgsRqa&format=png&color=ff4d4d" width="48"/>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Gmail -->
+&nbsp;&nbsp;
 <a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=86839&format=png" width="48"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
 </div>
 
 
