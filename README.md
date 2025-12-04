@@ -32,19 +32,19 @@ and recovering from losing my old account (RIP 🪦).
 <div align="center">
 
 <a href="https://prathyay.neocities.org" target="_blank">
-  🌐
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" width="45" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=itchio" width="48" />
+  <img src="https://skillicons.dev/icons?i=itchio" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 </div>
