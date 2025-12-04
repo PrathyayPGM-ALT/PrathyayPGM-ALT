@@ -35,14 +35,15 @@ and recovering from losing my old account (RIP).
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55" /> 
-<img src="https://skillicons.dev/icons?i=c" width="55" /> 
-<img src="https://skillicons.dev/icons?i=java" width="55" /> 
-<img src="https://skillicons.dev/icons?i=html" width="55" /> 
-<img src="https://skillicons.dev/icons?i=css" width="55" /> 
+<img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" width="55" />
 
 </div>
+
 
 
 
