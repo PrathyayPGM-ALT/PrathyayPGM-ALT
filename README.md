@@ -31,20 +31,27 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
+<!-- Website -->
 <a href="https://prathyay.neocities.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
+<!-- GitHub -->
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
+<!-- Itch.io -->
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=itchio" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/itchdotio.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
+<!-- Gmail -->
 <a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="45"/>
 </a>
 
 </div>
