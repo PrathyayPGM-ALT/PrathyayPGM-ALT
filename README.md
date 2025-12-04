@@ -44,7 +44,7 @@ and recovering from losing my old account (RIP 🪦).
 &nbsp;&nbsp;
 <!-- Itch.io -->
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-itchio-is-a-website-for-users-to-host-sell-and-download-indie-video-games-logo-shadow-tal-revivo.png" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Itch.io_logo.svg" width="55"/>
 </a>
 &nbsp;&nbsp;
 <!-- Gmail -->
