@@ -41,11 +41,11 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" width="55" />
 
 </div>
@@ -67,10 +67,12 @@ And then things get… uh… slightly out of hand.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
