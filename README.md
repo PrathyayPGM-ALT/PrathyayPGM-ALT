@@ -33,7 +33,8 @@ and recovering from losing my old account (RIP).
 
 ## Tech & Tools I Use
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
@@ -42,6 +43,7 @@ and recovering from losing my old account (RIP).
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 </div>
+
 
 
 ---
