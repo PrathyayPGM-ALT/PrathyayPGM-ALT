@@ -32,7 +32,8 @@ and recovering from losing my old account (RIP 🪦).
 -  **Website:** https://prathyay.neocities.org  
 -  **GitHub:** https://github.com/prathyayPGM-ALT  
 -  **Itch.io:** https://prathyay.itch.io  
--  **Gmail:** prathyaym@gmail.com  
+-  **Gmail:** prathyaym@gmail.com
+-  **Discord:** fatal_prathyaym
 
 ---
 
