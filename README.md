@@ -28,32 +28,11 @@ and recovering from losing my old account (RIP 🪦).
 ---
 
 ## Find Me Elsewhere
-<div align="center">
 
-<!-- Website (skillicons-style globe) -->
-<a href="https://prathyay.neocities.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Globe.svg" width="55" />
-</a>
-&nbsp;&nbsp;
-
-<!-- GitHub (real skillicons icon) -->
-<a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="55" />
-</a>
-&nbsp;&nbsp;
-
-<!-- Itch.io (proper red logo, square, clean) -->
-<a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Itch.io_logo.svg/512px-Itch.io_logo.svg.png" width="55" />
-</a>
-&nbsp;&nbsp;
-
-<!-- Gmail -->
-<a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Google.svg" width="55" />
-</a>
-
-</div>
+[🌍 Website](https://prathyay.neocities.org) ・  
+[🐙 GitHub](https://github.com/prathyayPGM-ALT) ・  
+[🎮 Itch.io](https://prathyay.itch.io) ・  
+[✉️ Gmail](mailto:prathyaym@gmail.com)
 ---
 
 ## Tech & Tools I Use
