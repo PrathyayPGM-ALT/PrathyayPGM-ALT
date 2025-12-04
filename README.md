@@ -28,33 +28,32 @@ and recovering from losing my old account (RIP 🪦).
 ---
 
 ## Find Me Elsewhere
-
-
 <div align="center">
 
-<!-- Website -->
+<!-- Website (skillicons-style globe) -->
 <a href="https://prathyay.neocities.org" target="_blank">
-  <img src="https://img.icons8.com/color/96/internet--v1.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Globe.svg" width="55" />
 </a>
 &nbsp;&nbsp;
-<!-- GitHub -->
+
+<!-- GitHub (real skillicons icon) -->
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://img.icons8.com/material-rounded/96/ffffff/github.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="55" />
 </a>
 &nbsp;&nbsp;
-<!-- Itch.io -->
+
+<!-- Itch.io (proper red logo, square, clean) -->
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Itch.io_logo.svg" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Itch.io_logo.svg/512px-Itch.io_logo.svg.png" width="55" />
 </a>
 &nbsp;&nbsp;
+
 <!-- Gmail -->
 <a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Google.svg" width="55" />
 </a>
 
 </div>
-
-
 ---
 
 ## Tech & Tools I Use
