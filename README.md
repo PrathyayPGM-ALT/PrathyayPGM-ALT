@@ -29,31 +29,33 @@ and recovering from losing my old account (RIP 🪦).
 
 ## Find Me Elsewhere
 
+
 <div align="center">
 
 <!-- Website -->
 <a href="https://prathyay.neocities.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=59886&format=png&color=4da6ff" width="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <!-- GitHub -->
 <a href="https://github.com/prathyayPGM-ALT" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=ffffff" width="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <!-- Itch.io -->
 <a href="https://prathyay.itch.io" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/itchdotio.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=5uR5yZDgsRqa&format=png&color=ff4d4d" width="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <!-- Gmail -->
 <a href="mailto:prathyaym@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=86839&format=png" width="48"/>
 </a>
 
+</div>
 </div>
 
 
