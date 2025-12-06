@@ -56,12 +56,12 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-<img 
-  src="https://metrics.lecoq.io/PrathyayPGM-ALT?template=classic&base=header&languages=1&isocalendar=1&theme=tokyonight&config.timezone=Asia%2FKolkata" 
-  width="70%" 
-/>
+<img src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" width="420"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 
 </div>
+
 
 ---
 
