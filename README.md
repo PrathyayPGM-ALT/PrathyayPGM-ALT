@@ -52,6 +52,25 @@ and recovering from losing my old account (RIP 🪦).
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+  <!-- Hnefatafl -->
+  <a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathyayPGM-ALT&repo=Hnefatafl&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Cyvathon -->
+  <a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathyayPGM-ALT&repo=Cyvathon&theme=tokyonight&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+
 ## Fun Fact
 
 I love creating worlds — digital or otherwise — where **logic meets storytelling**.  
