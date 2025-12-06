@@ -59,20 +59,25 @@ and recovering from losing my old account (RIP 🪦).
   <!-- Left: Streak Stats -->
   <img 
     align="left"
+    width="49%"
     height="200"
     src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
+    style="object-fit: cover;"
   />
 
   <!-- Right: Top Languages -->
   <img 
     align="right"
-    height="400"
+    width="49%"
+    height="200"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
+    style="object-fit: cover;"
   />
 
 </div>
 
 <br clear="both" />
+
 
 ---
 
