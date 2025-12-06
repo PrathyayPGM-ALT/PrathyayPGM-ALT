@@ -56,21 +56,19 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-  <!-- Profile Details -->
+  <!-- Stats card -->
   <img 
     width="45%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight" 
   />
 
-  <!-- Languages -->
+  <!-- Top Languages by Repos -->
   <img 
     width="45%"
-    src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathyayPGM-ALT&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language
-)" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=tokyonight" 
   />
 
 </div>
-
 
 ---
 
