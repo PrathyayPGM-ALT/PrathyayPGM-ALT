@@ -52,23 +52,15 @@ and recovering from losing my old account (RIP 🪦).
 
 ---
 
-## GitHub Stats (because why not)
-
+## GitHub stats (because why not)
+ 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img 
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
-  />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 
