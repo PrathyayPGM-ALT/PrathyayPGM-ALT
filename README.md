@@ -56,12 +56,19 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" width="420"/>
+  <!-- Stats card -->
+  <img 
+    width="46%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight"
+  />
 
-<img src="https://readme-components.vercel.app/api/top-langs?username=PrathyayPGM-ALT&theme=tokyonight&border=none" width="350"/>
+  <!-- Top languages (RELIABLE CARD) -->
+  <img 
+    width="46%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathyayPGM-ALT&theme=tokyonight"
+  />
 
 </div>
-
 
 ---
 
