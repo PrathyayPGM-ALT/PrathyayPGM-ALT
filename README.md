@@ -54,21 +54,27 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<div align="center">
+## GitHub Stats (because why not)
 
-  <!-- Streak Stats -->
+<div>
+
+  <!-- Left: Streak Stats -->
   <img 
-    width="49%"
+    align="left"
+    width="48%"
     src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
   />
 
-  <!-- Top Languages (Working mirror) -->
+  <!-- Right: Top Languages -->
   <img 
-    width="49%"
+    align="right"
+    width="48%"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </div>
+
+<br clear="both" />
 
 
 
