@@ -55,29 +55,30 @@ and recovering from losing my old account (RIP 🪦).
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<!-- HNEFATAFL -->
-<a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
-  <img src="https://skillicons.dev/icons?i=python" width="55" />
-  <br>
-  <sub><b>Hnefatafl Multiplayer</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- CYVATHON -->
-<a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="130" />
-  <br>
-  <sub><b>Cyvathon Website</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- PAPER MINECRAFT -->
-<a href="https://github.com/PrathyayPGM-ALT/PaperMinecraft">
-  <img src="https://skillicons.dev/icons?i=javascript" width="55" />
-  <br>
-  <sub><b>Paper Minecraft</b></sub>
-</a>
+  
+<table>
+  <tr>
+    <!-- HNEFATAFL -->
+    <td align="center" width="200">
+      <a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
+        <img src="https://skillicons.dev/icons?i=python" width="60" /><br>
+        <sub><b>Hnefatafl Multiplayer</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript" width="140" /><br>
+        <sub><b>Cyvathon Website</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/PrathyayPGM-ALT/PaperMinecraft">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" /><br>
+        <sub><b>Paper Minecraft</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
