@@ -65,7 +65,8 @@ and recovering from losing my old account (RIP 🪦).
   <!-- Languages -->
   <img 
     width="45%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathyayPGM-ALT&theme=tokyonight" 
+    src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathyayPGM-ALT&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language
+)" 
   />
 
 </div>
