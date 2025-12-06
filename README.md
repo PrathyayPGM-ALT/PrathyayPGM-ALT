@@ -54,35 +54,47 @@ and recovering from losing my old account (RIP 🪦).
 
 ## 🚀 Featured Projects
 
-
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="250">
       <a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3l3GStb0ZyPmwEnAXKf0cyS8PILoSd7eDg&s" width="180" style="border-radius: 10px;" /><br>
+        <img 
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3l3GStb0ZyPmwEnAXKf0cyS8PILoSd7eDg&s" 
+          width="200"
+          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+        />
+        <br>
         <sub><b>Hnefatafl Multiplayer</b></sub>
       </a>
     </td>
     <td align="center" width="250">
       <a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
-        <img src="https://yt3.googleusercontent.com/5GpNkIXJ-7COcaHSYvVwvKEVYsajkKRsh6jezvXuw7JW3gypGfTZbE4F_PQBx_4WHPaKmrliow=s900-c-k-c0x00ffffff-no-rj" width="180" style="border-radius: 10px;" /><br>
+        <img 
+          src="https://yt3.googleusercontent.com/5GpNkIXJ-7COcaHSYvVwvKEVYsajkKRsh6jezvXuw7JW3gypGfTZbE4F_PQBx_4WHPaKmrliow=s900-c-k-c0x00ffffff-no-rj" 
+          width="200"
+          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+        />
+        <br>
         <sub><b>Cyvathon Website</b></sub>
       </a>
     </td>
     <td align="center" width="250">
       <a href="https://github.com/PrathyayPGM-ALT/PaperMinecraft">
-        <img src="https://static.toiimg.com/thumb/msid-120058075,width-1280,height-720,resizemode-4/120058075.jpg" width="180" style="border-radius: 10px;" /><br>
+        <img 
+          src="https://static.toiimg.com/thumb/msid-120058075,width-1280,height-720,resizemode-4/120058075.jpg" 
+          width="200"
+          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+        />
+        <br>
         <sub><b>Paper Minecraft</b></sub>
       </a>
     </td>
-
   </tr>
 </table>
 
 </div>
-
 
 
 
