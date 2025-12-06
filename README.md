@@ -54,25 +54,21 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<table>
-  <tr>
-    <!-- LEFT: Streak Stats -->
-    <td width="50%" align="center">
-      <img 
-        src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
-        width="95%"
-      />
-    </td>
-    <!-- RIGHT: Top Languages -->
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
-        width="95%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+  <!-- Profile Details -->
+  <img 
+    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight" 
+  />
+
+  <!-- Languages -->
+  <img 
+    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathyayPGM-ALT&theme=tokyonight" 
+  />
+
+</div>
 
 
 ---
