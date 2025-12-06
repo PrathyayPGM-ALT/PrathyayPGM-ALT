@@ -58,17 +58,18 @@ and recovering from losing my old account (RIP 🪦).
 
   <!-- Streak Stats -->
   <img 
-    height="165" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" 
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
   />
 
   <!-- Top Languages -->
   <img 
-    height="165" 
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </div>
+
 
 
 ---
