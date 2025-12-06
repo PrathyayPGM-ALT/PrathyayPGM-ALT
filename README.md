@@ -58,7 +58,7 @@ and recovering from losing my old account (RIP 🪦).
 
 <img src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true" width="420"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+<img src="https://readme-components.vercel.app/api/top-langs?username=PrathyayPGM-ALT&theme=tokyonight&border=none" width="350"/>
 
 </div>
 
