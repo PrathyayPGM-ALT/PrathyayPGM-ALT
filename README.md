@@ -56,19 +56,20 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats (DEMOLAB mirror) -->
   <img 
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=PrathyayPGM-ALT&theme=tokyonight&hide_border=true"
   />
 
-  <!-- Top Languages -->
+  <!-- Top Languages (Rickstaa mirror) -->
   <img 
     width="49%"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </div>
+
 
 ---
 
