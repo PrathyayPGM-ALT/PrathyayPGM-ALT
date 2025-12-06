@@ -54,21 +54,22 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <!-- Stats card -->
+  <!-- Stats Card -->
   <img 
-    width="45%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight"
+    height="200"
   />
 
   <!-- Top Languages by Repos -->
   <img 
-    width="45%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=tokyonight"
+    height="200"
   />
 
 </div>
+
 
 ---
 
