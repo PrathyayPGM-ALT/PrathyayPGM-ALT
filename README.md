@@ -54,9 +54,14 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<img src="https://metrics.lecoq.io/PrathyayPGM-ALT?template=classic&base=header&isocalendar=1&languages=1&achievements=1&notable=1&introduction=1&followup=1&activity=1&theme=tokyonight" width="90%"/>
+<div align="center">
 
+<img 
+  src="https://metrics.lecoq.io/PrathyayPGM-ALT?template=classic&base=header&languages=1&isocalendar=1&theme=tokyonight&config.timezone=Asia%2FKolkata" 
+  width="70%" 
+/>
 
+</div>
 ---
 
 
