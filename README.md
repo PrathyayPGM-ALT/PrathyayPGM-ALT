@@ -18,6 +18,38 @@ and recovering from losing my old account (RIP 🪦).
 
 </div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <!-- Hnefatafl -->
+  <a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=PrathyayPGM-ALT&repo=Hnefatafl&theme=tokyonight&hide_border=true"
+      width="380"
+    />
+  </a>
+
+  <!-- Cyvathon -->
+  <a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=PrathyayPGM-ALT&repo=Cyvathon&theme=tokyonight&hide_border=true"
+      width="380"
+    />
+  </a>
+
+  <!-- Paper Minecraft -->
+  <a href="https://github.com/PrathyayPGM-ALT/PaperMinecraft">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=PrathyayPGM-ALT&repo=PaperMinecraft&theme=tokyonight&hide_border=true"
+      width="380"
+    />
+  </a>
+
+</div>
+
+---
+
 ## What I'm Working On
 
 - **Online multiplayer Hnefatafl** — Viking strategy remake  
