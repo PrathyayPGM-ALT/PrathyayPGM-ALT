@@ -54,21 +54,8 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<div align="center">
+<img src="https://metrics.lecoq.io/PrathyayPGM-ALT?template=classic&base=header&isocalendar=1&languages=1&achievements=1&notable=1&introduction=1&followup=1&activity=1&theme=tokyonight" width="90%"/>
 
-  <!-- Stats -->
-  <img 
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-</div>
 
 ---
 
