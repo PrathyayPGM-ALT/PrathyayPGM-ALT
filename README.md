@@ -65,7 +65,9 @@ and recovering from losing my old account (RIP 🪦).
   <!-- Top Languages (Rickstaa mirror) -->
   <img 
     width="49%"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
+    src="
+    https://readme-stats.clckblog.space/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true
+"
   />
 
 </div>
