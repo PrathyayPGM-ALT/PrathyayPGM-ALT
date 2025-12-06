@@ -56,16 +56,16 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-  <!-- Contribution / Commit Stats -->
+  <!-- Stats -->
   <img 
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrathyayPGM-ALT&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
-  <!-- Top Languages (accurate + shows C) -->
+  <!-- Top Languages -->
   <img 
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </div>
