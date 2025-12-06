@@ -56,46 +56,49 @@ and recovering from losing my old account (RIP 🪦).
 
 <div align="center">
 
-<table>
+<table style="border: none;">
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="220" style="border: none;">
       <a href="https://github.com/PrathyayPGM-ALT/Hnefatafl">
         <img 
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3l3GStb0ZyPmwEnAXKf0cyS8PILoSd7eDg&s" 
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3l3GStb0ZyPmwEnAXKf0cyS8PILoSd7eDg&s"
           width="200"
-          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+          height="200"
+          style="object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
         />
         <br>
         <sub><b>Hnefatafl Multiplayer</b></sub>
       </a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="220" style="border: none;">
       <a href="https://github.com/PrathyayPGM-ALT/Cyvathon">
         <img 
-          src="https://yt3.googleusercontent.com/5GpNkIXJ-7COcaHSYvVwvKEVYsajkKRsh6jezvXuw7JW3gypGfTZbE4F_PQBx_4WHPaKmrliow=s900-c-k-c0x00ffffff-no-rj" 
+          src="https://yt3.googleusercontent.com/5GpNkIXJ-7COcaHSYvVwvKEVYsajkKRsh6jezvXuw7JW3gypGfTZbE4F_PQBx_4WHPaKmrliow=s900-c-k-c0x00ffffff-no-rj"
           width="200"
-          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+          height="200"
+          style="object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
         />
         <br>
         <sub><b>Cyvathon Website</b></sub>
       </a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="220" style="border: none;">
       <a href="https://github.com/PrathyayPGM-ALT/PaperMinecraft">
         <img 
-          src="https://static.toiimg.com/thumb/msid-120058075,width-1280,height-720,resizemode-4/120058075.jpg" 
+          src="https://static.toiimg.com/thumb/msid-120058075,width-1280,height-720,resizemode-4/120058075.jpg"
           width="200"
-          style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
+          height="200"
+          style="object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;"
         />
         <br>
         <sub><b>Paper Minecraft</b></sub>
       </a>
     </td>
+
   </tr>
 </table>
 
 </div>
-
 
 
 ---
