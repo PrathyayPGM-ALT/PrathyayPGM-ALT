@@ -66,7 +66,7 @@ and recovering from losing my old account (RIP 🪦).
   <!-- Right: Top Languages -->
   <img 
     align="right"
-    height="200"
+    height="400"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrathyayPGM-ALT&layout=compact&theme=tokyonight&hide_border=true"
   />
 
