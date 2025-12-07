@@ -37,6 +37,13 @@ and recovering from losing my old account (RIP 🪦).
 
 ---
 
+## Random Facts on ME
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Professional+bug+creator" />
+</p>
+
+---
 ## Tech & Tools I Use
 
 <div align="center">
