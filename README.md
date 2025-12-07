@@ -43,6 +43,17 @@ and recovering from losing my old account (RIP 🪦).
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Professional+bug+creator" />
 </p>
 
+- I debug using print statements and hope.  
+- My code works on my machine™ and that is all that matters.  
+- I break things, fix them, then break them again for science.  
+- I name variables based on my mood.  
+- Fluent in 7 programming languages and 0 human ones.  
+- I test in production. It builds confidence.  
+- My Git history is 50% “fix” and 50% “oops.”  
+- I main **Ctrl + Z** in real life.  
+- Life needs a minimap. I would still get lost.  
+- I can write perfect code.<sup>[citation needed]</sup>
+
 ---
 ## Tech & Tools I Use
 
