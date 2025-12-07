@@ -61,13 +61,13 @@ and recovering from losing my old account (RIP 🪦).
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=tokyonight&v=3" 
     width="46%"
-  />&nbsp;
-  
+  />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight&v=3" 
     width="46%"
   />
 </p>
+
 
 
 
