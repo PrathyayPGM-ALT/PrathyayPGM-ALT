@@ -5,7 +5,7 @@
 
 <br>
 
-# 👋 Hello There!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Careful%2C+I'm+FATAL)](https://git.io/typing-svg)
 
 ### I am **Prathyay**  
 Game Developer • ETHICAL Hacker • Professional Chaos Creator
