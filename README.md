@@ -5,7 +5,7 @@
 
 <br>
 
-## Hi, I'm Prathyay 👋
+## Hiello there 👋
 
 ### I am **Prathyay**  
 Game Developer • ETHICAL Hacker • Professional Chaos Creator
