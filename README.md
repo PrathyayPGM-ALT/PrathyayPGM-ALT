@@ -54,7 +54,7 @@ and recovering from losing my old account (RIP 🪦).
 
 ## GitHub Stats (because why not)
 
-<div align="center">
+<div>
 
   <!-- Stats card -->
   <img 
