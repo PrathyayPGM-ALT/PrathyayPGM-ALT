@@ -57,18 +57,17 @@ and recovering from losing my old account (RIP 🪦).
 <div>
 
   <!-- Stats card -->
+<p align="center">
   <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=tokyonight&v=3" 
     width="46%"
-    align="right"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=github_dark"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathyayPGM-ALT&theme=tokyonight&v=3" 
+    width="46%"
+  />
+</p>
 
-  <!-- Top languages (RELIABLE CARD) -->
-<img 
-  width="46%"
-  align="left"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathyayPGM-ALT&theme=github_dark"
-/>
 
 
 </div>
