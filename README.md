@@ -51,8 +51,6 @@ and recovering from losing my old account (RIP 🪦).
 - I test in production. It builds confidence.  
 - My Git history is 50% “fix” and 50% “oops.”  
 - I main **Ctrl + Z** in real life.  
-- Life needs a minimap. I would still get lost.  
-- I can write perfect code.<sup>[citation needed]</sup>
 
 ---
 ## Tech & Tools I Use
