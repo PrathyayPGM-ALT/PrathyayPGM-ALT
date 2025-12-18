@@ -90,7 +90,7 @@ and recovering from losing my old account (RIP 🪦).
 </div>
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ5b21oNmk0djltMnYwanRncDhsODcwN2xpdmJybHBtbGU1Y2puYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" alt="Coding Python GIF" width="450"/>
 </p>
 ---
