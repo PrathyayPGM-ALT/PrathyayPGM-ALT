@@ -29,7 +29,7 @@ and recovering from losing my old account (RIP 🪦).
 
 ## Find Me Elsewhere
 
--  **Website:** https://prathyay.neocities.org  
+-  **Website:** https://prathyaypgm-alt.github.io/ 
 -  **GitHub:** https://github.com/prathyayPGM-ALT  
 -  **Itch.io:** https://prathyay.itch.io  
 -  **Gmail:** prathyaym@gmail.com
