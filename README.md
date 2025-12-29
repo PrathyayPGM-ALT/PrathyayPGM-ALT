@@ -53,7 +53,7 @@ and recovering from losing my old account (RIP 🪦).
 - I main **Ctrl + Z** in real life.  
 
 ---
-## Tech & Tools I Use
+## Languages I code in
 
 <div align="center">
 
@@ -67,6 +67,19 @@ and recovering from losing my old account (RIP 🪦).
 </div>
 
 ---
+
+## Tech Tools I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=itchio" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kali" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="55" />
+
+</div>
+
 
 ## GitHub Stats (because why not)
 
