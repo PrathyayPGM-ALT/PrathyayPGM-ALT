@@ -118,10 +118,7 @@ Every project I make starts with one simple question:
 And then things get… uh… slightly out of hand.
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=PrathyayPGM-ALT&style=flat-square&color=blue" />
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=PrathyayPGM-ALT&theme=dracula&row=1&column=-1" />
 
 <div align="center">
 
