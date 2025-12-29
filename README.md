@@ -73,7 +73,7 @@ and recovering from losing my old account (RIP 🪦).
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=github" width="55" /> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=itchio" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=chatgpt" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bash" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=kali" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=windows" width="55" />
