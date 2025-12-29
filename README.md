@@ -128,10 +128,14 @@ And then things get… uh… slightly out of hand.
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathyayPGM-alt/Prathyaypgm-alt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathyaypgm-alt/Prathyaypgm-alt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathyaypgm-alt/Prathyaypgm-alt/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PrathyayPGM-alt/PrathyayPGM-alt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PrathyayPGM-alt/PrathyayPGM-alt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/PrathyayPGM-alt/PrathyayPGM-alt/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <div align="center">
 
