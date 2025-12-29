@@ -119,9 +119,6 @@ And then things get… uh… slightly out of hand.
 
 ---
 
-<img src="https://img.shields.io/github/followers/prathyaypgm-alt?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/prathyaypgm-alt?style=for-the-badge" />
-
 
 <div align="center">
 
