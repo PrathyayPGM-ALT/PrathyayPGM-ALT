@@ -118,7 +118,9 @@ Every project I make starts with one simple question:
 And then things get… uh… slightly out of hand.
 
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=prathyaypgm-alt&theme=dracula&row=1&column=-1" />
+
+<img src="https://img.shields.io/github/followers/prathyaypgm-alt?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/prathyaypgm-alt?style=for-the-badge" />
 
 
 <div align="center">
