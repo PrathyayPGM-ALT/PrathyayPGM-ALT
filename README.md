@@ -13,7 +13,7 @@ Game Developer • ETHICAL Hacker • Professional Chaos Creator
 I build games, break things (legally), and sometimes (I SAID SOMETIMES) even fix them.  
 GitHub is my playground for experiments, backups,  
 and recovering from losing my old account (RIP 🪦).
-PS. I only differentiate in calculus $$\frac{dx}{dy}$$
+PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 
 
 </div>
