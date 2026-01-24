@@ -20,7 +20,7 @@ and recovering from losing my old account (RIP 🪦).
 
 ## What I'm Working On
 
-- **Online multiplayer Hnefatafl** — Viking strategy remake  
+- **E.D.I.T.H** — Spiderman assistant turned real  
 - **Paper Minecraft**  
 - **Cyvathon official website**  
 - **Having fun with my homies (mission-critical)**  
