@@ -21,7 +21,7 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 ---
 
 ## What I'm Working On
-
+- **The Worry Website** - A place where kids can anonymously share their feelings (AI helper and moderation included!)
 - **E.D.I.T.H** — Spiderman assistant turned real  
 - **Paper Minecraft**  
 - **Cyvathon official website**  
