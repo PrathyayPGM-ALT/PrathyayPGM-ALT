@@ -79,6 +79,9 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 <img src="https://skillicons.dev/icons?i=bash" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=kali" width="55" /> &nbsp;&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" width="55"> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="55"> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse" width="55"> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=notepad" width="55"> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=windows" width="55" />
 
 </div>
