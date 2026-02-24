@@ -55,11 +55,13 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 - I main **Ctrl + Z** in real life.  
 
 ---
-## Languages I code in
+## My "Tech Stack"
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pygame" width="55" /> &nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;&nbsp;
