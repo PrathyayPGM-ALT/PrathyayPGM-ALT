@@ -68,6 +68,7 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 <img src="https://skillicons.dev/icons?i=javascript" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" width="55" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />&nbsp;&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="55" /> 
 
 
