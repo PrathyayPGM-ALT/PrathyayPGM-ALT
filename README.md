@@ -85,8 +85,9 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" width="55"> &nbsp;&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="55"> &nbsp;&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse" width="55"> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" width="55" />
-
+<img src="https://skillicons.dev/icons?i=windows" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="55" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mac" width="55" />
 </div>
 
 
