@@ -61,6 +61,9 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 
 <img src="https://skillicons.dev/icons?i=python" width="55" /> &nbsp;&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pygame" width="55" /> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="55" /> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="55" /> &nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=c" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" width="55" /> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp;&nbsp;
