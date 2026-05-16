@@ -24,7 +24,7 @@ PS. I only differentiate in calculus ($$\frac{dx}{dy}$$)
 - **The Worry Website** - A place where kids can anonymously share their feelings (AI helper and moderation included!)
 - **E.D.I.T.H** — Spiderman assistant turned real  
 - **Paper Minecraft**  
-- **Cyvathon official website**  
+- **The Study Website** - I could not come up with a better name that wasn't already taken *wink*  
 - **Having fun with my homies (mission-critical)**  
 
 ---
